@@ -1,0 +1,50 @@
+* {
+	font-family: Arial;
+}
+
+#screen {
+	height: 600px;
+	width: 1000px;
+	margin: 0 auto;
+
+	background-color: #F2DB9B;
+	border: 3px black solid;
+}
+
+#left {
+	height: 540px;
+	width: 220px;
+	position: absolute;
+	margin-top: 28px;
+	margin-left: 20px;
+
+	background-color: white;
+	border: 2px black solid;
+}
+
+#minimap {
+	margin: 10px;
+	height: 150px;
+	border: 2px red solid;
+}
+
+#input {
+
+	border: 2px red solid;
+}
+
+#map {
+	height: 500px;
+	width: 640px;
+	position: absolute;
+	margin-top: 48px;
+	margin-left: 300px;
+
+	
+	background-color: white;
+	border: 2px black solid;
+}
+
+footer {
+	text-align: center;
+}
